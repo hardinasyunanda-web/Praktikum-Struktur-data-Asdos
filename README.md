@@ -1,16 +1,4 @@
-```text
-Bahasa yang digunakan adalah Bahasa Indonesia.
-```
-
-```markdown
-# Praktikum-Struktur-data-Asdos
-
-Tentu, ini dia konten README.md yang sudah digabungkan menjadi satu blok, siap untuk disalin dan ditempel langsung ke GitHub:
-
-```markdown
 # Implementasi Stack dan Queue dengan Python
-
-Dokumen ini menjelaskan implementasi dasar dari struktur data Stack (Tumpukan) dan Queue (Antrian) menggunakan bahasa pemrograman Python.
 
 ## Struktur Data: Stack (Tumpukan)
 
